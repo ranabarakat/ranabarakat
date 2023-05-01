@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rana Mohamed Barakat
 - 👀 I’m interested in software development, embedded systems and AI
-- 🌱 I’m currently learning Computer and Communications Engineering
+- 🌱 I’m currently learning Computer and Communication Engineering
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me ranabarakat30@gmail.com
 
