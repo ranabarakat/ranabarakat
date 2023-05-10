@@ -7,7 +7,7 @@
 - How to reach me ranabarakat30@gmail.com
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdiZDUwMmNkNDg3YTRiZWQ3ZTU4ODM2MmY4MmNmOWRhZTA5Y2FlMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/6ib6KPmkeAjDTxMxij/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdiZDUwMmNkNDg3YTRiZWQ3ZTU4ODM2MmY4MmNmOWRhZTA5Y2FlMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/6ib6KPmkeAjDTxMxij/giphy.gif" width="200"/>
 </div>
 
 <!---
