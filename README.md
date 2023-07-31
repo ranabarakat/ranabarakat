@@ -2,7 +2,7 @@
 
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - Studying computer engineering at Alexandria University, class of 2024
-- Interested in software development, cybersecurity and AI
+- Interested in software development, security and AI
 - Looking to collaborate on ML/DL projects
 - How to reach me ranabarakat30@gmail.com
 
