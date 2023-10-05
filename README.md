@@ -1,8 +1,8 @@
 ## Hey there! I’m Rana Mohamed Barakat 👋
 
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Studying computer engineering at Alexandria University, class of 2024
-- Interested in software development, security and AI
+- Studying computer and communication engineering at Alexandria University, class of 2024
+- Interested in software development, computer security and AI
 - Looking to collaborate on ML/DL projects
 - How to reach me ranabarakat30@gmail.com
 
